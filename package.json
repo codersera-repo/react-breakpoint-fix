@@ -1,10 +1,13 @@
 {
   "name": "react-breakpoint-fix",
-  "version": "1.0.0",
-  "description": "This package fixes the breakpoint issue with react",
+  "version": "1.0.2",
+  "description": "This package fixes the debug breakpoint issue with react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "patch-package": "./index.js"
   },
   "author": "",
   "license": "ISC",
