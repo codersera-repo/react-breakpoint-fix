@@ -1,6 +1,6 @@
 {
   "name": "react-breakpoint-fix",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This package fixes the debug breakpoint issue with react",
   "main": "index.js",
   "scripts": {
