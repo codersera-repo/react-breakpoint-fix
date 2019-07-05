@@ -1,0 +1,16 @@
+{
+  "name": "react-breakpoint-fix",
+  "version": "1.0.0",
+  "description": "This package fixes the breakpoint issue with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "react-scripts": "^3.0.1"
+  }
+}
