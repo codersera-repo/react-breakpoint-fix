@@ -1,6 +1,6 @@
 {
   "name": "react-breakpoint-fix",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This package fixes the debug breakpoint issue with react",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,16 @@
   },
   "bin": {
     "react-breakpoint-fix": "./index.js"
+  },
+  "keywords": [
+    "react-breakpoint-fix",
+    "react-breakpoint-issue",
+    "react-debug",
+    "react-debug-fix"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codersera-repo/react-breakpoint-fix.git"
   },
   "author": "",
   "license": "ISC",
